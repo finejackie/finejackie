@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @finejackie
-- 👀 I’m interested in python, crystals, reading, and cannabis benefits
+- 👀 I’m interested in python, entertainment, reading, and cannabis benefits
 - 🌱 I’m currently learning MIS and Python
 - 💞️ I’m looking to enhance my coding skills and collaborate with like minded individuals and professionals
 
