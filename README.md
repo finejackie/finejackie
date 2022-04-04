@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @finejackie
 - 👀 I’m interested in python, entertainment, reading, and cannabis benefits
-- 🌱 I’m currently learning MIS and Python
+- 🌱 I’m currently learning MIS, Python, Digital Marketing, and Strategic Management
 - 💞️ I’m looking to enhance my coding skills and collaborate with like minded individuals and professionals
 
 <!---
